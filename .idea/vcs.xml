@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/专题一 基础复习" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/专题一高性能编程" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/专题三 容器化" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/专题三 高并发集群中间件" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/专题三-高并发集群中间件" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/专题三容器化" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/专题二 单节点系统" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/专题二中间件" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/专题五 云课堂后端项目" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/专题五 容器化微服务" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/专题四 分布式系统开发" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/专题四 服务化改造" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/公开课源码Q1904" vcs="Git" />
+  </component>
+</project>
